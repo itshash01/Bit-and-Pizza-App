@@ -86,7 +86,7 @@
                     style="@style/Widget.MaterialComponents.Chip.Choice"/>
 
                 <com.google.android.material.chip.Chip
-                    android:id="@+id/Chili_oil"
+                    android:id="@+id/chili_oil"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Chili_oil"
